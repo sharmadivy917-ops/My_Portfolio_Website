@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharmadivy917-ops.github.io/My_Portfolio_Website/sitemap.xml
